@@ -5,6 +5,7 @@ workers_dev = true
 
 
 [vars]
+STYLE_OBJECT = "style/style.rich.v1.json"
 # Origines S3 (PARPAR = fr-par)
 ORIGIN_BASE_PRIVATE = "https://s3.fr-par.scw.cloud/idf-maps-storage"  # PRIVÉ (tiles + style.json)
 # # ORIGIN_BASE_PUBLIC  = "https://s3.fr-par.scw.cloud/idf-assets"         # PUBLIC (fonts)
@@ -17,4 +18,3 @@ ROUTE_STYLE = "private"   # style.json -> privé
 ROUTE_TILES = "private"   # tiles -> privé
 ROUTE_FONTS = "private"
 
-STYLE_OBJECT = "style/style.light.v1.json"
