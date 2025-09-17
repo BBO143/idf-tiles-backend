@@ -17,5 +17,4 @@ ROUTE_STYLE = "private"   # style.json -> privé
 ROUTE_TILES = "private"   # tiles -> privé
 ROUTE_FONTS = "private"
 
-[vars]
 STYLE_OBJECT = "style/style.light.v1.json"
