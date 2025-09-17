@@ -15,7 +15,6 @@ S3_ENDPOINT = "https://s3.fr-par.scw.cloud"
 # Routage demandé
 ROUTE_STYLE = "private"   # style.json -> privé
 ROUTE_TILES = "private"   # tiles -> privé
-ROUTE_FONTS = "public"    # fonts -> public
 ROUTE_FONTS = "private"
 
 [vars]
